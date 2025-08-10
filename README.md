@@ -31,5 +31,5 @@ Sales-Data-Analysis-Project/
 4. Summarize findings and business recommendations
 
 - 📌 Status
-**In progress** – dataset selected, initial exploration underway.
+**Finished** 
 
